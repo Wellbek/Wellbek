@@ -5,7 +5,7 @@
 ## ⚡ Work Experience:
 
 - **Intern** at Teutoburger Ölmühle GmbH (Angular, FastAPI, TypeScript, Python)
-- **Data Science Student Assistant** at Learning Technologies Research Group, RWTH Aachen
+- **Data Science Student Assistant**
 - **CS Teaching Assistant** (Python, Pandas)
 - **High School Roboting Club Teacher**
 
