@@ -4,7 +4,7 @@
 
 ## ⚡ Work Experience:
 
-- **Intern** at Teutoburger Ölmühle GmbH (Angular, FastAPI, TypeScript, Python)
+- **Intern** at Teutoburger Ölmühle GmbH (Angular, FastAPI, TypeScript, Python, SQL)
 - **Data Science Student Assistant** (Python, Docker, MongoDB)
 - **CS Teaching Assistant** (Python, Pandas)
 - **High School Roboting Club Teacher**
