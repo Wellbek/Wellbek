@@ -4,7 +4,7 @@
 
 ## ⚡ Work Experience:
 
-- **Web Fullstack Intern**(Angular, FastAPI, TypeScript, Python, SQL)
+- **Web Fullstack Intern** (Angular, FastAPI, TypeScript, Python, SQL)
 - **Data Science Student Assistant** (Python, Docker, MongoDB)
 - **CS Teaching Assistant** (Python, Pandas)
 - **High School Roboting Club Teacher**
