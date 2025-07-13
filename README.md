@@ -4,7 +4,7 @@
 
 ## ⚡ Work Experience:
 
-- **OCOO IT Intern at GCF**
+- **Technical Business Partner Intern at GCF**
 - **Web Fullstack Intern** (Angular, FastAPI, TypeScript, Python, SQL)
 - **Data Science Student Assistant** (Python, Docker, MongoDB)
 - **CS Teaching Assistant** (Python, Pandas)
