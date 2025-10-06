@@ -6,7 +6,7 @@
 
 - **Data Scientist and IT Project Manager Intern at GCF**
 - **Fullstack Developer Intern** (Angular, FastAPI, TypeScript, Python, SQL)
-- **Data Science Research Assistant** (Python, Docker, MongoDB)
+- **Data Science Research Assistant** (Python, Flask, Docker, MongoDB)
 - **CS Teaching Assistant** (Python, Pandas)
 - **High School Roboting Club Teacher**
 
