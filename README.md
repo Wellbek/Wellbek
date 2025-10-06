@@ -4,7 +4,7 @@
 
 ## ⚡ Work Experience:
 
-- **Technical Business Partner (Project Manager) Intern at GCF**
+- **Data Scientist and IT Project Manager Intern at GCF**
 - **Web Fullstack Intern** (Angular, FastAPI, TypeScript, Python, SQL)
 - **Data Science Research Assistant** (Python, Docker, MongoDB)
 - **CS Teaching Assistant** (Python, Pandas)
