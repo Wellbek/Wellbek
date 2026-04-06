@@ -4,7 +4,7 @@
 
 ## ⚡ Work Experience:
 
-- **IT Project and Solutions Coordinator Consultant at GCF under UNFCCC**
+- **Technical Business Partner Intern at GCF under UNFCCC** (Project Management + Data Engineering & AI)
 - **Fullstack Developer Intern** (Angular, FastAPI, TypeScript, Python, SQL)
 - **Data Engineering Research Assistant** (Python, Flask, Docker, MongoDB)
 - **CS/Data Science Teaching Assistant** (Python, Pandas, Pickle)
