@@ -4,11 +4,11 @@
 
 ## ⚡ Work Experience:
 
-- **Data Scientist and IT Project Manager Intern at GCF**
+- **IT Project and Solutions Coordinator Consultant at GCF under UNFCCC**
 - **Fullstack Developer Intern** (Angular, FastAPI, TypeScript, Python, SQL)
 - **Data Engineering Research Assistant** (Python, Flask, Docker, MongoDB)
 - **CS/Data Science Teaching Assistant** (Python, Pandas, Pickle)
-- **High School Roboting Club Teacher**
+- **High School Roboting Club President**
 
 ## 🌱 Interests:
 
