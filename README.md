@@ -2,6 +2,10 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Wellbek&color=blue)
 
+## 🏫 Academia:
+- **KAIST Graduate School of Data Science** (upcoming)
+- **RWTH Aachen University, Computer Science B.Sc.**
+
 ## ⚡ Work Experience:
 
 - **Technical Business Partner Intern at GCF under UNFCCC** (Project Management + Data Engineering & AI)
