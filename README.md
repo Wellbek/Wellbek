@@ -3,7 +3,7 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=Wellbek&color=blue)
 
 ## 🏫 Academia:
-- **KAIST Graduate School of Data Science** (upcoming)
+- **KAIST Graduate School of Data Science** (currently attending)
 - **RWTH Aachen University, Computer Science B.Sc.**
 
 ## ⚡ Work Experience:
